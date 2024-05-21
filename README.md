@@ -36,8 +36,8 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 8. Open the terminal,
 
-$ cd election
-$ npm install
+'$ cd election' </br>
+'$ npm install'
 
 ## Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
